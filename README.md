@@ -1,3 +1,5 @@
+PT-BR | [EN](README_EN.md)
+
 # 💼 Fabricio Isidoro Galdino
 
 **Desenvolvedor Fullstack**  
