@@ -86,7 +86,7 @@ I regularly work on side projects to improve my skills in:
 
 ## 📄 PDF
 
-📎 [Download my resume (PDF)](./Fabricio_CV.pdf)
+📎 [Download my resume (PDF)](./Fabricio_CV_EN.pdf)
 
 ---
 
