@@ -1,4 +1,4 @@
-PT-BR | [EN](README_EN.md)
+PT-BR | [EN](README_EN.md) | [ES](README_ES.md)
 
 # 💼 Fabricio Isidoro Galdino
 
